@@ -8,11 +8,11 @@ https://lruizap.github.io/react-tasks-project/
 
 ### Herramientas del proyecto
 
-  -Vite
-  -TailwindCSS
-  -JavaScript
-  -Node
-  -React
-  -Notion (Para la documentación del proyecto)
-  -VSCode
-  -GIT
+ - Vite
+ - TailwindCSS
+ - JavaScript
+ - Node
+ - React
+ - Notion (Para la documentación del proyecto)
+ - VSCode
+ - GIT
